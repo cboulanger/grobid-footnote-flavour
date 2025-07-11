@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Ancilla</forename>
+								 <surname>Iuris</surname>,
+								 <marker>2025</marker>
+							</persName>
+							<persName>
+								 <forename>Lagen</forename>
+								 <surname>des Rechts</surname>
+							</persName>
+							<persName>
+								 <forename>Livia</forename>
+								 <surname>Sutter</surname>
+							</persName>
+							<persName>
+								 <forename>/</forename>
+								 <surname>Patrice</surname>
+							</persName>
+							<persName>
+								 <forename>Martin</forename>
+								 <surname>Zumsteg</surname>
+								<marker>*</marker> Translated by
+							</persName>
+							<persName>
+								 <forename>Jacob</forename>
+								 <surname>Watson</surname>
+							</persName>
+							<persName>
+								 <forename>I</forename>.
+								<marker>*</marker>
+							</persName>
+							<persName>
+								 <forename>Livia</forename>
+								 <surname>Sutter</surname>,
+								 <roleName>MA</roleName>,
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>
